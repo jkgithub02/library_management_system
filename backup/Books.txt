@@ -1,0 +1,12 @@
+Harry Potter,JK.Rowling,00001,2010,3,3
+Kagurabachi,Takeru Hokazono,00002,2023,3,3
+Yellow,Coldplay,00003,2018,3,3
+Josh,Joshua,00004,2004,3,3
+Philosophy,Aristotle,00005,1999,3,3
+One Piece,Eiichiro Oda,00006,2001,3,3
+Artificial Intelligence,ChatGPT,00007,2020,3,3
+Minecraft,Mojang,00008,2008,3,3
+Legends,Riot Games,00009,2005,3,3
+Please gimme gud marks,Jason Kong,00010,2023,3,3
+C Programming,Paul Deitel,00011,2014,3,3
+Red,Taylor Swift,00012,2015,3,3
